@@ -10,7 +10,7 @@ Let’s break down the programming concepts into detailed explanations. Each poi
 
 Programming starts with understanding the basics that are present in all languages:
 
-- **Data Types**:
+- **Data Types:** [JavaScript](/JavaScript/data-types.md)
 
   - **Primitive Types**: Include integers, floats, booleans, and characters. For example, `int age = 25;` in C or `age = 25` in Python.
   - **Composite Types**: Include arrays, lists, or dictionaries that store multiple values. For instance, `[1, 2, 3]` in Python is a list.
