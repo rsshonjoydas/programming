@@ -101,3 +101,27 @@ Variable names must follow specific rules and conventions to ensure the code run
 - **Avoid Keywords**: Reserved words are off-limits.
 - **No Spaces or Special Characters**: Use letters, digits, `_`, or `$` only.
 - **Case Sensitivity**: Be aware that JavaScript differentiates between cases.
+
+### **Why Camel Case is the Best for JavaScript Variable Names:**
+
+1. **Readability**: Camel case improves readability by clearly indicating word boundaries, making it easy to understand variable names at a glance.
+2. **Consistency**: Using camel case consistently throughout your code helps maintain uniformity, making the code easier to read and maintain.
+3. **Community Standard**: Camel case is the standard naming convention for JavaScript variables, functions, and object properties, which means your code will look familiar and professional to other developers.
+4. **Avoids Conflicts**: Camel case distinguishes variable names from other conventions like PascalCase (used for class names) and UPPERCASE (used for constants), helping to prevent naming conflicts and improving code clarity.
+
+### **Examples of Best Practice Variable Naming in Camel Case:**
+
+- `userName`
+- `totalAmount`
+- `isVisible`
+- `firstName`
+- `maxValue`
+
+### **Comparison of Naming Styles in JavaScript:**
+
+| **Naming Style** | **Example**    | **Use Case**                                                        |
+| ---------------- | -------------- | ------------------------------------------------------------------- |
+| **camelCase**    | `totalAmount`  | Best for variables, function names, and object properties.          |
+| **PascalCase**   | `TotalAmount`  | Typically used for class names and constructor functions.           |
+| **snake_case**   | `total_amount` | Not commonly used in JavaScript, but can be seen in some codebases. |
+| **UPPERCASE**    | `MAX_SIZE`     | Used for constants or values that do not change.                    |
