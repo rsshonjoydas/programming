@@ -16,7 +16,7 @@ Programming starts with understanding the basics that are present in all languag
   - **Composite Types**: Include arrays, lists, or dictionaries that store multiple values. For instance, `[1, 2, 3]` in Python is a list.
   - Understand immutable (e.g., strings in Python) vs. mutable types.
 
-- **Variables and Constants**:
+- **Variables and Constants:** [JavaScript](/JavaScript/variables.md)
 
   - Variables store information that can change during program execution. Example: `let count = 10;`
   - Constants hold fixed values. Example: `const PI = 3.14;`
